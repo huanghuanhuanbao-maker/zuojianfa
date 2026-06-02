@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop'
 
 $skillName = 'jianjian-ai-coach'
-$rawBase = 'https://raw.githubusercontent.com/huangluckybao-lab/jianjian-ai-coach/main'
+$rawBase = 'https://raw.githubusercontent.com/huanghuanhuanbao-maker/zuojianfa/main'
 $targetDir = Join-Path $env:USERPROFILE ".openclaw\workspace\skills\$skillName"
 
 New-Item -ItemType Directory -Force -Path $targetDir | Out-Null

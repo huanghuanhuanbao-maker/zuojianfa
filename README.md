@@ -19,12 +19,12 @@
 
 macOS / Linux：
 ```bash
-curl -sL https://raw.githubusercontent.com/huangluckybao-lab/jianjian-ai-coach/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/huanghuanhuanbao-maker/zuojianfa/main/install.sh | bash
 ```
 
 Windows（PowerShell）：
 ```powershell
-irm https://raw.githubusercontent.com/huangluckybao-lab/jianjian-ai-coach/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/huanghuanhuanbao-maker/zuojianfa/main/install.ps1 | iex
 ```
 
 安装完成后重启你的 AI 助手平台即可生效。
@@ -32,7 +32,7 @@ irm https://raw.githubusercontent.com/huangluckybao-lab/jianjian-ai-coach/main/i
 ### 方式二：ClawHub（推荐）
 
 ```bash
-clawhub install huangluckybao-lab/jianjian-ai-coach
+clawhub install huanghuanhuanbao-maker/zuojianfa
 ```
 
 ### 方式三：手动安装
